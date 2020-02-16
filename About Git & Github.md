@@ -10,7 +10,7 @@
 # Installation of Git
 Visit [Git's website](https://git-scm.com/) to download the version that works for your OS and install it.
 
-# Basic Shell Commands
+# Basic Shell in Git Bash Commands
 ## Directory Management
 Shell Command | Description
 --- | ---
