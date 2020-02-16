@@ -10,5 +10,17 @@
 # Installation of Git
 Visit [Git's website](https://git-scm.com/) to download the version that works for your OS and install it.
 
+# Basic Shell Commands
+## Directory Management
+Shell Command | Description
+--- | ---
+mkdir | Making a directory in the current directory
+ls | 
+cd | 
+. |
+.. |
+## File Management
+
+
 # Source
 Udemy: Complete Git Guide
