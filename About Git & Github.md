@@ -14,11 +14,25 @@ Visit [Git's website](https://git-scm.com/) to download the version that works f
 ## Directory Management
 Shell Command | Description
 --- | ---
-mkdir | Making a directory in the current directory
-ls | 
-cd | 
-. |
-.. |
+mkdir | Make new directory. (**make directory**)
+rmdir | (**remove directory**)
+ls | List files and directories. (**list**)
+pwd | print path for current directory. (**print working directory**)
+cd | Change the current directory you are in. (**change directory**)
+. | Alias of the current directory.
+.. | Alias of the parent directory.
+nano | 
+clear |
+Tab |
+echo |
+man |
+
+### About Switches ###
+In some cases, you can add switches after the shell commands to reach certain goal.
+For example: 
+
+
+You can learn more about Linux commands briefly [here](https://www.rapidtables.com/code/linux/index.html) or learn in more detail [here](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) .
 ## File Management
 
 
